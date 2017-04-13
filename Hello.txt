@@ -1,4 +1,7 @@
+
 print("Hello:")
 print("Hello!!!!!!:")
 print("Hi:")
 print("Hi!!!!!:")
+print("Hello my friend")
+print("Hello my ----")
